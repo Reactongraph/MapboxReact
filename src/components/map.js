@@ -44,7 +44,7 @@ function Map(props) {
 
         // Adjust the CSS of the zoom control
         const zoomControlContainer = map.getContainer().querySelector('.mapboxgl-ctrl-bottom-right');
-        zoomControlContainer.style.bottom = '90px';
+        zoomControlContainer.style.bottom = '150px';
         const filteredProperties = newProperty.filter((property) => {
             return (
                 (!selectedRent || property.status === selectedRent) &&
