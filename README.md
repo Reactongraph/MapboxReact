@@ -8,7 +8,8 @@ A web application built with Mapbox that allows users to view properties and fil
 - Markers indicating property locations on the map.
 - Filter properties based on city rent, state, or other criteria.
 - Search functionality to find specific properties.
-- Clicking on a marker displays additional details about the property.
+- Click on any marker to see the property detail in the popup.
+- We have dedicated buttons to zoom-in and zoom-out the map.
 
 ## Demo
 
