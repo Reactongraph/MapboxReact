@@ -51,7 +51,7 @@ A web application built with Mapbox that allows users to view properties and fil
 
 ## Demo
 
-You can find a live demo of the application [here](link_to_live_demo).
+You can find a live demo of the application [here](https://mapbox-react-gamma.vercel.app/).
 
 ## Table of Contents
 
